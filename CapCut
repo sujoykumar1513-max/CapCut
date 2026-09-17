@@ -1,7 +1,7 @@
 {
-  "show": off,
+  "show": true,
   "force": true,
-  "version_name": "2.0.0",
+  "version_name": "19.6.0",
   "version_code": 2,
   "title": "New Update Available! 🚀",
   "message": "We've added new features and fixed bugs. Update now for the best experience!",
