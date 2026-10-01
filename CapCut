@@ -1,8 +1,8 @@
 {
-  "show": off,
+  "show": true,
   "force": true,
-  "version_name": "12.3.",
-  "version_code": 4,
+  "version_name": "19.60.",
+  "version_code": 5,
   "title": "New Update Available! 🚀",
   "message": "We've added new features and fixed bugs. Update now for the best experience!",
   "update_url": "https://t.me/httpstmeX_0kS2M_m2JkNjI1",
